@@ -1,9 +1,5 @@
 # DevTools Part 1 - Network Tab
 
-## Instructions
-Open the Lab 4 DevTools site: https://cse110-sp26.github.io/Lab4_Hosted/
-Open DevTools (F12), navigate to the Network tab, click "Fetch Data", and answer the following questions:
-
 ## Questions 1-4 (Network List)
 
 **1. What is the name of the new json file?**
