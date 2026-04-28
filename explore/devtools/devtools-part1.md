@@ -12,7 +12,7 @@
 - 584944 bytes
 
 **4. How long did it take to download?**
-- 59.97 ms (34.28ms content download)
+- 59.97ms total time (34.28ms content download)
 
 ## Questions 5-8 (Side Panel)
 
