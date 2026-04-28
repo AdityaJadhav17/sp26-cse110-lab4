@@ -6,7 +6,7 @@ This repository contains lab exercises for CSE 110 Lab 4.
 
 ```
 sp26-cse110-lab4/
-├── expand/                    # Optional expansion content
+├── expand/                
 │   ├── expand.md
 │   └── screenshots/           # Screenshot images
 ├── explore/                   # Exploratory exercises
